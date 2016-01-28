@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1453930398 source:f:\mmm\unittestarticle\unittest++\unittest++\dsp\main.cpp
+	<stdio.h>
+	"UnitTest++.h"
+
+1434492384 source:f:\mmm\unittestarticle\unittest++\unittest++\dsp\dsp.cpp
+	<stdio.h>
+	<math.h>
+	<random>
+	"DSP.h"
+	"UnitTest++.h"
+	<time.h>
+
+1434493349 f:\mmm\unittestarticle\unittest++\unittest++\dsp\dsp.h
+
+1453926146 source:f:\mmm\unittestarticle\unittest++\unittest++\dsp\dsptest.cpp
+	<stdio.h>
+	<math.h>
+	"UnitTest++.h"
+	"DSP.h"
+

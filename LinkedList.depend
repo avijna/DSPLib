@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1432073254 source:f:\mmm\unittestarticle\unittest++\unittest++\linkedlist\linkedlist.cpp
+	"LinkedList.h"
+	"UnitTest++.h"
+
+1432332373 f:\mmm\unittestarticle\unittest++\unittest++\linkedlist\linkedlist.h
+
+1432073254 source:f:\mmm\unittestarticle\unittest++\unittest++\linkedlist\linkedlisttest.cpp
+	"UnitTest++.h"
+	"LinkedList.h"
+	<string>
+
+1432068148 source:f:\mmm\unittestarticle\unittest++\unittest++\linkedlist\main.cpp
+	<iostream>
+	"UnitTest++.h"
+
